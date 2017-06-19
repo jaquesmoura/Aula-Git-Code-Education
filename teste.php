@@ -1,11 +1,4 @@
 
 
-<?= echo 'Teste' ?>
+<?= echo 'Teste alterado' ?>
 
-
-
-
-:i
-
-
-e
